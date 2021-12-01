@@ -1,22 +1,22 @@
-<a href="https://www.instagram.com/ramadh20?r=nametag"><img src="https://images.cooltext.com/5537105.png" width="320" height="211" alt="  RAM-UBOT" /></a>
+<a href="https://www.instagram.com/alfjrinfl_?r=nametag"><img src="https://images.cooltext.com/5537105.png" width="320" height="211" alt="  RIFAL-UBOT" /></a>
 
 <p align="center">
-  <a href="https://github.com/ramadhani892/RAM-UBOT/fork">
-    <img src="https://img.shields.io/github/forks/ramadhani892/RAM-UBOT?label=Fork&style=social">
+  <a href="https://github.com/RifalInHere/RIFAL-UBOT/fork">
+    <img src="https://img.shields.io/github/forks/RifalInHere/RIFAL-UBOT?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/ramadhani892/RAM-UBOT">
-    <img src="https://img.shields.io/github/stars/ramadhani892/RAM-UBOT?style=social">
+  <a href="https://github.com/RifalInHere/RIFAL-UBOT">
+    <img src="https://img.shields.io/github/stars/RifalInHere/RIFAL-UBOT?style=social">
   </a>
 </p>  
 
 ![VIEWS](https://komarev.com/ghpvc/?username=ramadhani892)
 
-<a href="https://t.me/ramubotspam"><img src="https://img.shields.io/badge/KODE%20PENILAIAN-A+-blue.svg?style=for-the-badge&logo=Factor.">
+<a href="https://t.me/MuseumRifal"><img src="https://img.shields.io/badge/KODE%20PENILAIAN-A+-blue.svg?style=for-the-badge&logo=Factor.">
 
 ## PEMILIK REPO
-* **Landak** 🦔
-[<img src="https://media.giphy.com/media/o97Wl6qaoJytXcppUj/giphy.gif">](https://t.me/maafgausahsokap)
+* **RIFAL** 🏃🏻
+[<img src="https://media.giphy.com/media/o97Wl6qaoJytXcppUj/giphy.gif">](https://t.me/DihSokapMas)
 
   
   
@@ -27,18 +27,18 @@
 
 ### JOIN DULU TOT!!:
 
-<a href="https://t.me/ramubotinfo"><img src="https://img.shields.io/badge/Channel%20RAM%20UBOT-red.svg?style=for-the-badge&logo=Telegram"></a>
-<a href="https://t.me/teman_random"><img src="https://img.shields.io/badge/Join-TEMAN%20RANDOM-purple.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/RifalBersabda"><img src="https://img.shields.io/badge/Channel%20RIFAL%20UBOT-red.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/MuseumRifal"><img src="https://img.shields.io/badge/Join-MUSEUM%20RIFAL-purple.svg?style=for-the-badge&logo=Telegram"></a>
 
 ## Penjelasan:
-* **Repo Nya toxic, Gajelas pokoknya mah.** 
+* **Pokoknya yang punya reponya ganteng dah, ganteng banget pokoknya.** 
 [<img src="https://telegra.ph/file/be5a4a2cb6aac37ca7945.jpg">](https://t.me/ootspambott)
 
 
-<h3 align="center">REPO RAM UBOT DIBUAT KARNA YAA MEMANG PENGEN DIBUAT WKWKWK.</h3>
+<h3 align="center">REPO RIFAL UBOT DIBUAT KARNA KEGABUTAN RIFAL SEMATA.</h3>
 <p align="center">&nbsp;</p>
 
-### <a href="https://t.me/ootspambot"><img src="https://img.shields.io/badge/GROUP%20SPAM%20RAM%20UBOT-blue?style=flat&logo=Telegram" width="250" height="40.100" />
+### <a href="https://t.me/MuseumRifal"><img src="https://img.shields.io/badge/MUSEUM%20CANG%20RIFAL%20UBOT-blue?style=flat&logo=Telegram" width="250" height="40.100" />
 
 
 ## Bagaimana Cara Deploy?
@@ -63,4 +63,5 @@ TERIMAKASIH UNTUK
 *   [VICKY](https://t.me/vckyouubitch) - ⚡Geez-Userbot⚡
 *   [KOALA](https://t.me/manusiarakitann) - KAMPANG BOT
 *   [TEAMULTROID](https://github.com/TeamUltroid) - ULTROID
+*   [LANDAK](https://t.me/maafgausahsokap) - RAM-UBOT
 *    DAN MASIH BANYAK LAGI TOT
